@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "gdinsdale",
+  "repo": "container-xdx6fa",
+  "name": "gdinsdale",
+  "email": "g.dinsdale123@gmail.com",
+}
